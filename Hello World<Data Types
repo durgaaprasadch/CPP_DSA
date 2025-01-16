@@ -1,0 +1,68 @@
+#include<iostream>
+using namespace std;
+
+
+int main(){
+//	
+//	variables
+
+//	int age=10; //age is variable
+	
+//	age=9;
+
+//	cout<<age;
+	
+//	const - //unchangable
+
+//	const pi =3.14;
+
+//	pi=99; //not possible editing
+
+
+
+
+
+
+
+
+
+ 
+//Data Types
+
+//
+// int -- 4bytes --> 5
+// int a = 5; 
+// 
+// float -- 4bytes --> 6.66(upto 7)
+// float b = 6.6;
+// 
+// double -- 8bytes --> 45.4455887888(upto 15)
+// double c = 4.4555;
+// 
+// 
+// char -- 1 byte --> 'a'
+// char a = 'a';
+// 
+// bool -- 1 byte --> true/false
+// bool e = true;
+ 
+//unsigned int f = 4; (only positive numbers)
+  
+//unsigned int,short,unsigned short,long,long long,unsigned long long,long double,unsigned char
+
+
+
+
+
+
+
+
+//input from user
+
+
+int age;
+cout<<"Enter your age: ";
+cin>>age;
+
+cout <<"Your age is : "<< age <<endl;
+}
